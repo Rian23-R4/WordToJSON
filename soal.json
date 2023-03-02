@@ -1,0 +1,278 @@
+[
+  {
+    "number": "1",
+    "question": "Dalam menjalankan tugasnya terkait hal keuangan, maka KPU bertanggungjawab kepada siapa?",
+    "options": {
+      "a": "Presiden",
+      "b": "DPR",
+      "c": "BPK",
+      "d": "BPKP",
+      "e": "Bertanggungjawab sesuai dengan peraturan perundang-undangan"
+    },
+    "answer": "E"
+  },
+  {
+    "number": "2",
+    "question": "Dalam hal penyelenggaraan seluruh tahapan Pemilu dan tugas lainnya, KPU memberikan laporan\n\nkepada ...",
+    "options": {
+      "a": "MPR dan Presiden",
+      "b": "MPR dan DPR",
+      "c": "DPR dan Presiden",
+      "d": "DPR dan DPD",
+      "e": "Presiden dan BPK"
+    },
+    "answer": "C"
+  },
+  {
+    "number": "3",
+    "question": "Untuk menyelenggarakan Pemilu di tingkat kecamatan, dibentuk PPK. Apa kepanjangan dari PPK?",
+    "options": {
+      "a": "Petugas Pemungutan Kecamatan",
+      "b": "Panitia Pemungutan Kecamatan",
+      "c": "Panitia Pemilihan Kecamatan",
+      "d": "Petugas Pemilihan Kecamatan",
+      "e": "Panitia Pemilu Kecamatan"
+    },
+    "answer": "C"
+  },
+  {
+    "number": "4",
+    "question": "PPK berkedudukan dimana?*",
+    "options": {
+      "a": "Kantor Kecamatan",
+      "b": "Kantor Polsek Kecamatan",
+      "c": "Pendopo Kecamatan",
+      "d": "Ibu kota Kecamatan",
+      "e": "Ibu kota desa/kelurahan"
+    },
+    "answer": "D"
+  },
+  {
+    "number": "5",
+    "question": "Berapa lama masa kerja PPK?",
+    "options": {
+      "a": "PPK dibentuk oleh KPU Kabupaten/Kota paling lambat 6 (enam) bulan sebelum penyelenggaraan\n\nPemilu dan dibubarkan paling lambat 1 (satu) bulan setelah pemungutan suara.",
+      "b": "PPK dibentuk oleh KPU Kabupaten/Kota paling lambat 6 (enam) bulan sebelum penyelenggaraan\n\nPemilu dan dibubarkan paling lambat 2 (dua) bulan setelah pemungutan suara.",
+      "c": "PPK dibentuk oleh KPU Kabupaten/Kota paling lambat 8 (delapan) bulan sebelum\n\npenyelenggaraan Pemilu dan dibubarkan paling lambat 1 (satu) bulan setelah pemungutan\n\nsuara.",
+      "d": "PPK dibentuk oleh KPU Kabupaten/Kota paling lambat 8 (delapan) bulan sebelum\n\npenyelenggaraan Pemilu dan dibubarkan paling lambat 2 (dua) bulan setelah pemungutan\n\nsuara.",
+      "e": "PPK dibentuk oleh KPU Kabupaten/Kota paling lambat 10 (sepuluh) bulan sebelum\n\npenyelenggaraan Pemilu dan dibubarkan paling lambat 2 (dua) bulan setelah pemungutan\n\nsuara."
+    },
+    "answer": "B"
+  },
+  {
+    "number": "6",
+    "question": "Dalam hal terjadi penghitungan dan pemungutan suara ulang, Pemilu susulan, dan Pemilu lanjutan,\n\nmasa kerja PPK diperpanjang dan PPK dibubarkan paling lambat berapa bulan setelah pemungutan\n\nsuara?",
+    "options": {
+      "a": "1 (satu) bulan",
+      "b": "2 (dua) bulan",
+      "c": "3 (tiga) bulan",
+      "d": "4 (empat) bulan",
+      "e": "5 (lima) bulan"
+    },
+    "answer": "B"
+  },
+  {
+    "number": "7",
+    "question": "Berita acara penghitungan suara dan sertifikat penghitungan suara yang dibuat oleh PPK wajib\n\ndiserahkan kepada siapa ?",
+    "options": {
+      "a": "Saksi peserta Pemilu, Panwaslu Kecamatan, dan KPU Kabupaten/Kota",
+      "b": "Tim sukses Pemilu, Panwaslu Lapangan dan Panwaslu Kecamatan.",
+      "c": "Tim Kampanye, Panwaslu Kecamatan dan KPU Kabupaten/Kota.",
+      "d": "Panwaslu Kabupaten/Kota dan KPU Kabupaten/Kota.",
+      "e": "Parpol peserta Pemilu, Panwaslu Kabupaten/Kota danKPU Kabupaten/Kota."
+    },
+    "answer": "A"
+  },
+  {
+    "number": "8",
+    "question": "Anggota PPK adalah sebanyak \u2026\u2026. orang berasal dari tokoh masyarakat yangmemenuhi syarat\n\nberdasarkan Undang-Undang. Berapa jumlah anggota PPK?",
+    "options": {
+      "a": "3 (tiga) orang",
+      "b": "5 (lima) orang",
+      "c": "Minimal 3 (orang) dan maksimal 5 (lima) orang.",
+      "d": "Sebanyak-banyaknya 5 (lima) orang",
+      "e": "7 (tujuh) orang"
+    },
+    "answer": "B"
+  },
+  {
+    "number": "9",
+    "question": "Tugas, wewenang, dan kewajiban PPK meliputi dibawah ini, kecuali :",
+    "options": {
+      "a": "Membantu KPU, KPU Provinsi, dan KPU Kabupaten/Kota dalam melakukan pemutakhiran data\n\npemilih, daftar pemilih sementara, dan daftar pemilih tetap;",
+      "b": "Membantu KPU Kabupaten/Kota dalam menyelenggarakan Pemilu;",
+      "c": "Melaksanakan semua tahapan penyelenggaraan Pemilu di tingkat kecamatan yang telah\n\nditetapkan oleh KPU, KPU Provinsi, dan KPU Kabupaten/Kota;",
+      "d": "Mengumpulkan hasil penghitungan suara dari seluruh PPS di wilayah kerjanya;",
+      "e": "Melakukan pengawasan dan menerima laporan terhadap adanya pelanggaran pemilu diwilayah\n\nkecamatan."
+    },
+    "answer": "E"
+  },
+  {
+    "number": "10",
+    "question": "Dalam Pemilihan Umum Kepala Daerah, rekapitulasi penghitungan suara yang dilakukan oleh PPK\n\nharus sudah disampaikan kepada KPU Kabupaten/Kota paling lambat...",
+    "options": {
+      "a": "2 (dua) hari setelah hasil rekapitulasi",
+      "b": "3 (tiga) hari setelah hasil rekapitulasi",
+      "c": "4 (empat) hari setelah hasil rekapitulasi",
+      "d": "5 (lima) hari setelah hasil rekapitulasi",
+      "e": "6 (enam) hari setelah hasil rekapitulasi"
+    },
+    "answer": "B"
+  },
+  {
+    "number": "11",
+    "question": "Untuk menyelenggarakan Pemilu di desa atau nama lain/kelurahan, dibentuk PPS. Apa kepanjangan\n\nnama dari PPS?",
+    "options": {
+      "a": "Panitia Pemungutan Suara",
+      "b": "Petugas Pemungutan Suara",
+      "c": "Petugas Pemilihan Suara",
+      "d": "Panitia Pemilihan Suara",
+      "e": "Tidak ada jawaban yang benar."
+    },
+    "answer": "A"
+  },
+  {
+    "number": "12",
+    "question": "Siapa yang mempunyai kewenangan dan tugas untuk membentuk KPPS ?",
+    "options": {
+      "a": "PPS.",
+      "b": "PPK.",
+      "c": "KPU Kabupaten/Kota.",
+      "d": "KPU Provinsi.",
+      "e": "KPU."
+    },
+    "answer": "A"
+  },
+  {
+    "number": "13",
+    "question": "Berapa lama masa kerja PPS?",
+    "options": {
+      "a": "PPS dibentuk oleh KPU Kabupaten/Kota paling lambat 4 (empat) bulan sebelum\n\npenyelenggaraan Pemilu dan dibubarkan paling lambat 2 (dua) bulan setelah hari pemungutan\n\nsuara.",
+      "b": "PPS dibentuk oleh KPU Kabupaten/Kota paling lambat 6 (enam) bulan sebelum penyelenggaraan\n\nPemilu dan dibubarkan paling lambat 2 (dua) bulan setelah hari pemungutan suara.",
+      "c": "PPS dibentuk oleh KPU Kabupaten/Kota paling lambat 6 (enam) bulan sebelum penyelenggaraan\n\nPemilu dan dibubarkan paling lambat 1 (satu) bulan setelah hari pemungutan suara.",
+      "d": "PPS dibentuk oleh KPU Kabupaten/Kota paling lambat 8 (delapan) bulan sebelum\n\npenyelenggaraan Pemilu dan dibubarkan paling lambat 2 (dua) bulan setelah hari pemungutan\n\nsuara.",
+      "e": "PPS dibentuk oleh KPU Kabupaten/Kota paling lambat 8 (delapan) bulan sebelum\n\npenyelenggaraan Pemilu dan dibubarkan paling lambat 1 (satu) bulan setelah hari pemungutan\n\nsuara."
+    },
+    "answer": "B"
+  },
+  {
+    "number": "14",
+    "question": "Dalam hal terjadi penghitungan dan pemungutan suara ulang, Pemilu susulan, dan Pemilu lanjutan,\n\nmasa kerja PPS diperpanjang dan PPS dibubarkan paling lambat berapa bulan setelah pemungutan\n\nsuara?",
+    "options": {
+      "a": "1 (satu) bulan",
+      "b": "2 (dua) bulan",
+      "c": "3 (tiga) bulan",
+      "d": "4 (empat) bulan",
+      "e": "5 (lima) bulan"
+    },
+    "answer": "B"
+  },
+  {
+    "number": "15",
+    "question": "Tugas, wewenang, dan kewajiban PPS meliputi dibawah ini, kecuali :",
+    "options": {
+      "a": "membantu KPU, KPU Provinsi, KPU Kabupaten/Kota, dan PPK dalam melakukan pemutakhiran\n\ndata pemilih, daftar pemilih sementara, daftar pemilih hasil perbaikan, dan daftar pemilih tetap;",
+      "b": "membentuk KPPS;",
+      "c": "mengangkat petugas pemutakhiran data pemilih;",
+      "d": "mengumumkan daftar pemilih;",
+      "e": "menyampaikan daftar pemilih kepada Bawaslu Kabupaten/Kota."
+    },
+    "answer": "E"
+  },
+  {
+    "number": "16",
+    "question": "Siapakah yang berhak menandatangani dokumen Daftar Pemilih Sementara (DPS) dan DPS hasil\n\nperbaikan?",
+    "options": {
+      "a": "Ketua KPPS.",
+      "b": "Ketua PPS.",
+      "c": "Ketua PPK.",
+      "d": "Ketua KPU Kabupaten/Kota.",
+      "e": "Ketua KPU Provinsi."
+    },
+    "answer": "B"
+  },
+  {
+    "number": "17",
+    "question": "Anggota KPPS diangkat dan diberhentikan oleh PPS atas nama ketua KPU Kabupaten/Kota. Berapa\n\njumlah anggota KPPS dan apa kepanjangannya?",
+    "options": {
+      "a": "5 (lima) orang, Kelompok Penyelenggara Pemungutan Suara.",
+      "b": "7 (tujuh) orang, Kelompok Penyelenggara Pemilihan Suara.",
+      "c": "7 (tujuh) orang, Kelompok Penyelenggara Pemungutan Suara.",
+      "d": "5 (lima) orang, Kelompok Panitia Pemungutan Suara.",
+      "e": "7 (tujuh) orang, Kelompok Panitia Pemungutan Suara."
+    },
+    "answer": "C"
+  },
+  {
+    "number": "18",
+    "question": "Tugas, wewenang, dan kewajiban KPPS meliputi dibawah ini, kecuali :*",
+    "options": {
+      "a": "mengumumkan dan menempelkan daftar pemilih tetap di TPS;",
+      "b": "menyerahkan daftar pemilih tetap kepada saksi peserta Pemilu yang hadir dan Pengawas Pemilu\n\nLapangan;",
+      "c": "melaksanakan pemungutan dan penghitungan suara di TPS;",
+      "d": "mengumumkan hasil penghitungan suara di TPS;",
+      "e": "menyerahkan hasil penghitungan suara kepada KPU Kabupaten/Kota dan Bawaslu\n\nKabupaten/Kota.\n\n19. Tugas ketua PPK adalah sebagai berikut, kecuali :*\n\na. Memimpin kegiatan PPK.\n\nb. Mengawasi kegiatan Panwascam.\n\nc. Mengundang anggota untuk mengadakan rapat PPK.\n\nd. Menandatangani laporan hasil kegiatan penghitungan suara sementara secara berkala,dengan\n\nmanual, dan atau elektronik.\n\ne. Melaksanakan kegiatan lain yang dipandang perlu untuk kelancaran penyelenggaraan Pemilu\n\nsesuai dengan kebijakan yang ditentukan oleh KPU Kabupaten/Kota."
+    },
+    "answer": "B"
+  },
+  {
+    "number": "20",
+    "question": "Untuk memilih calon anggota PPK, KPU Kabupaten/Kota melakukan tahapan kegiatan sebagai\n\nberikut, kecuali :*",
+    "options": {
+      "a": "Mengumumkan pendaftaran calon anggota PPK.",
+      "b": "Menerima pendaftaran calon PPK.",
+      "c": "Melakukan seleksi tertulis calon anggota PPK.",
+      "d": "Melakukan seleksi psikotes calon anggota PPK.",
+      "e": "Melakukan wawancara calon anggota PPK."
+    },
+    "answer": "D"
+  },
+  {
+    "number": "21",
+    "question": "Ketentuan untuk menjadi anggota PPK, PPS, KPPS, PPLN, dan KPPSLN diatur dalam Undang-Undang\n\nNomor 7 Tahun 2017 pasal berapa?",
+    "options": {
+      "a": "Pasal 51",
+      "b": "Pasal 52",
+      "c": "Pasal 71",
+      "d": "Pasal 72",
+      "e": "Pasal 81"
+    },
+    "answer": "D"
+  },
+  {
+    "number": "22",
+    "question": "Syarat untuk menjadi anggota PPK, PPS, KPPS, PPLN, dan KPPSLN meliputi dibawah ini, kecuali :",
+    "options": {
+      "a": "Warga Negara Indonesia",
+      "b": "Berusia paling rendah 20 (dua puluh) tahun",
+      "c": "Mempunyai integritas, pribadi yang kuat, jujur, dan adil",
+      "d": "Berpendidikan paling rendah sekolah menengah atas atau sederajat",
+      "e": "Tidak menjadi anggota partai politik yang dinyatakan dengan surat pernyataan yang sah atau\n\nsekurang-kurangnya dalam jangka waktu 5 (lima) tahun tidak lagi menjadi anggota partai politik\n\nyang dibuktikan dengan surat keterangan dari pengurus partai politik yang bersangkutan"
+    },
+    "answer": "B"
+  },
+  {
+    "number": "23",
+    "question": "Institusi-institusi yang merupakan bagian dari perangkat penyelenggara pemilu adalah ....*",
+    "options": {
+      "a": "KPU Kabupaten/Kota, PPK, PPS, PPLN, KPPS, KPPSLN",
+      "b": "KPU Provinsi, Panitia Pemilihan Indonesia, PPK, PPS, KPPS",
+      "c": "KPU Kabupaten/Kota, Panitia Pemilihan Indonesia, PPK, PPS, KPPS",
+      "d": "Panitia Pemilihan Indoensia, PPK, PPS, PPLN, KPPS, KPPSLN",
+      "e": "KPU Kabupaten/Kota, PPK, PPS, PPLN, KPPS, KPPSLN, Pemantau Pemilu"
+    },
+    "answer": "A"
+  },
+  {
+    "number": "24",
+    "question": "Berapa jumlah anggota Bawaslu, Bawaslu Provinsi, Bawaslu Kabupaten/Kota dan Paswascam?*",
+    "options": {
+      "a": "7-7/5-5/3-3",
+      "b": "7-7/5-5-3",
+      "c": "5-7/5-5/3-3",
+      "d": "5 5-5/3-3",
+      "e": "5-5-3-3"
+    },
+    "answer": "C"
+  }
+]
