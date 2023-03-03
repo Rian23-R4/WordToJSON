@@ -4,18 +4,14 @@ import docx2txt
 
 data = []
 # regex untuk memisahkan pertanyaan, pilihan jawaban, dan jawaban yang benar
-# regex = r'(\d+)\.\s+(.*?)\s+\n(a)\.\s(.*?)\s+\n(b)\.\s(.*?)\s+\n(c)\.\s(.*?)\s+\n(d)\.\s(.*?)\s+\n(e)\.\s(.*?)\s+\nJawaban\s:\s(\w)'
-# regex = r'(\d+)\.\s(.*?)\s+(a)\.\s(.*?)\s+(b)\.\s(.*?)\s+(c)\.\s(.*?)\s+(d)\.\s(.*?)\s+(e)\.\s(.*?)\s+Jawaban\s:\s(\w)'
-regex = r'(\d+)\.\s+(.*?)\s+(a)\.\s+(.*?)\s+(b)\.\s+(.*?)\s+(c)\.\s+(.*?)\s+(d)\.\s+(.*?)\s+(e)\.\s+(.*?)\s+Jawaban\s:\s+(.*?)\s+'
-# (\d+)\.\s+(.*?)\s+(a)\.\s+(.*?)\s+(b)\.\s+(.*?)\s+(c)\.\s+(.*?)\s+(d)\.\s+(.*?)\s+(e)\.\s+(.*?)\s+Jawaban\s+?:\s+(.*?)\s+
-# (\d+)\.?\s+(.*?)\s+(a)\.?\s+(.*?)\s+(b)\.?\s+(.*?)\s+(c)\.?\s+(.*?)\s+(d)\.?\s+(.*?)\s+(e)\.?\s+(.*?)\s+Jawaban\s+?:\s+(.*?)\s+
+regex = r'(\d+)\.?\s+(.*?)\s+(a)\.?\s+(.*?)\s+(b)\.?\s+(.*?)\s+(c)\.?\s+(.*?)\s+(d)\.?\s+(.*?)\s+(e)\.?\s+(.*?)\s+Jawaban\s+:\s+(.*?)\s+'
 
 # membuka file yang berisi soal-soal
 # text = docx2txt.process("Soal PPS Bagian 1.docx")
 
 # extract text and write images in /tmp/img_dir
 text = docx2txt.process("Soal PPS Bagian 1.docx",
-                        "tmp\img_dir")
+                        "tmp/img_dir")
 
 
 # mencari semua data soal menggunakan regex
