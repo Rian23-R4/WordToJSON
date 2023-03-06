@@ -6,6 +6,8 @@ data = []
 # regex untuk memisahkan pertanyaan, pilihan jawaban, dan jawaban yang benar
 regex = r'(\d+)\.?\s+(.*?)\s+(a)\.?\s+(.*?)\s+(b)\.?\s+(.*?)\s+(c)\.?\s+(.*?)\s+(d)\.?\s+(.*?)\s+(e)\.?\s+(.*?)\s+Jawaban\s+:\s+(.*?)\s+'
 
+regex_artikel = r'Artikel\s:\s+(.*?)\s+\d+\.'
+
 # membuka file yang berisi soal-soal
 # text = docx2txt.process("Soal PPS Bagian 1.docx")
 
