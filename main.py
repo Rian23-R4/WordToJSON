@@ -10,7 +10,7 @@ os.system('cls' if os.name == 'nt' else 'clear')
 regex = r'(\d+)\.\s+([\s\S]*?)\s+(a)\.\s+(.*?)\s+(b)\.\s+(.*?)\s+(c)\.\s+(.*?)\s+(d)\.\s+(.*?)\s+(e)\.\s+(.*?)\s+Jawaban\s+:\s+(.*?)\s+'
 
 # regex untuk mengambil nomor artikel
-regex_artikel = r'Artikel\s+(.*?)\s+:\s+([\s\S]*?)\s?\n\d+\.'
+regex_artikel = r'Artikel\s+(\d+)\s+:\s+([\s\S]*?)\s?\n\d+\.'
 # Artikel\s(\d+)\s:\n(?:[\w\s.,-]+?\n)+?(?:\d+|$)
 
 # regex untuk mengambil nomor gambar
@@ -116,22 +116,42 @@ for index, soal in enumerate(data_soal):
         check_in_group = False
     if check_in_group == False:
         data_group.append([int(soal["number"])])
-data_test = []
+
 
 print(data_group)
 print(data_artikel)
 print(data_gambar)
 
-format_group_soal = [{
+data_test = []
+format_group_soal = {
     "group": {
         "artikel": "",
         "gambar": "",
         "soal": []
     },
-}]
-panjang_group = len(data_soal) - len(data_group)
-for i in range(panjang_group):
-    data_test.append(format_group_soal)
+}
+
+for index, group in enumerate(data_group):
+    data_test.append({
+        "group": {
+            "artikel": "",
+            "gambar": "",
+            "soal": []
+        },
+    })
+    for number_soal in group:
+        data_test[index]["group"]["soal"].append(
+            data_soal[number_soal-1])
+        for number_gambar in data_gambar:
+            if number_soal == int(number_gambar["number"]):
+                data_test[index]["group"]["gambar"] = number_gambar["image"]
+        for number_artikel in data_artikel:
+            if number_soal == int(number_artikel["number"]):
+                data_test[index]["group"]["artikel"] = number_artikel["artikel"]
 
 
-# print(json.dumps(data_test, indent=4))
+print(json.dumps(data_test[2], indent=4))
+print(json.dumps(data_test[3], indent=4))
+print(json.dumps(data_test[4], indent=4))
+print(json.dumps(data_test[13], indent=4))
+print(json.dumps(data_test[14], indent=4))
